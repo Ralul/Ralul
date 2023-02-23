@@ -30,9 +30,4 @@ jobs:
           config_timezone: Europe/Zurich
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_music: yes
-          plugin_music_mode: top
-          plugin_music_provider: spotify
-          plugin_music_token: ${{"bdf6cd6590204d2bbb29c320dd018b51, 3859c8d0244146738e04eac59268f060, AQCInLPCq3fVGyJ3WO2yrA3Q6Q9IAyXu4XTTc9x4wD-OyFLhuQ2Wozuj0mOyUfIBBpeYdlr7LPP9rretlNwQ1ujYtmuFeptvkeIebc9oQFVmvKlZEkhLBPdMou_qQ96NbRA"}}
-          plugin_music_time_range: short
-          plugin_music_top_type: tracks
+          

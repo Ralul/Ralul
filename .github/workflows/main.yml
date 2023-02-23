@@ -31,11 +31,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: playlist
-          plugin_music_played_at: yes
-          plugin_music_playlist: https://open.spotify.com/playlist/064jiIQ0HwXc2Ip8SThpAX?si=b034d3c09b6645c3
+          plugin_music_mode: top
           plugin_music_provider: spotify
+          plugin_music_token: ${{ QDjNXh4m3TMR0nlkWyA9hMjuSOcBDu2bzaIr9BOYPyda_vowaDvCAT7re7vU_iKHHmdMGBzHPpwWcfcKCe6MD2tEAUdgz6ZpxSxLrlcnIUlJhCO-vN6KAcvI1rI7PvP8XIvhzYDHwqXlUrrCc-ntIp7btFBuRQnbSeKLbtM5AvsCMVxUJSbVGKK6yuZ0t115-h9grw6GRVfa1smww }}
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: Ralul

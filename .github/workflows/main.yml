@@ -34,8 +34,8 @@ jobs:
           plugin_music_limit: 4
           plugin_music_mode: playlist
           plugin_music_played_at: yes
-          plugin_music_playlist:   <iframe src="https://open.spotify.com/embed/playlist/064jiIQ0HwXc2Ip8SThpAX?si=4d6c6de36b1047f5" width="" height="" frameborder="0" allowtransparency="" allow=""></iframe>
+          plugin_music_playlist: https://open.spotify.com/playlist/064jiIQ0HwXc2Ip8SThpAX?si=b034d3c09b6645c3
           plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: .user.login
+          plugin_music_user: Ralul

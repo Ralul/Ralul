@@ -33,6 +33,6 @@ jobs:
           plugin_music: yes
           plugin_music_mode: top
           plugin_music_provider: spotify
-          plugin_music_token: ${{BQDjNXh4m3TMR0nlkWyA9hMjuSOcBDu2bzaIr9BOYPyda_vowaDvCAT7re7vU_iKHHmdMGBzHPpwWcfcKCe6MD2tEAUdgz6ZpxSxLrlcnIUlJhCO-vN6KAcvI1rI7PvP8XIvhzYDHwqXlUrrCc-ntIp7btFBuRQnbSeKLbtM5AvsCMVxUJSbVGKK6yuZ0t115-h9grw6GRVfa1smww}}
+          plugin_music_token: ${{"bdf6cd6590204d2bbb29c320dd018b51, 3859c8d0244146738e04eac59268f060, AQCInLPCq3fVGyJ3WO2yrA3Q6Q9IAyXu4XTTc9x4wD-OyFLhuQ2Wozuj0mOyUfIBBpeYdlr7LPP9rretlNwQ1ujYtmuFeptvkeIebc9oQFVmvKlZEkhLBPdMou_qQ96NbRA"}}
           plugin_music_time_range: short
           plugin_music_top_type: tracks
